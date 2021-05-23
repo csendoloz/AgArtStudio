@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 0;
+  color: #40514E
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Arizonia', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+h2 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: thick;
+  width: 4%;
+  margin: 60px auto;
+}
+
+.introduction {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 1.9rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.profile-pic {
+  margin-top: 50px;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  left: 60%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 400px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-rawImg1 {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 0;
+}
+
+.skill-row2 {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-rawImg2 {
+  width: 25%;
+  float: right;
+  margin-left: 0;
+}
+
+.bottom-container {
+   background-color: #66BFBF;
+   padding: 50px 0;
+   margin: 0;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.btn {
+  border: 0;
+  line-height: 2.5;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: #66BFBF;
+  background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+              inset -2px -2px 3px rgba(0, 0, 0, .6);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #76dbd1;
+}
+
+.btn:active{
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+              inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+.footer-link {
+  margin: 10px 10px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  margin: 30px 0 0;
+}
