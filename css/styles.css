@@ -62,7 +62,10 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 20%;
-  bottom: 15%;
+}
+
+.mnt-container {
+  display: inline-block;
 }
 
 .skill-row1 {
