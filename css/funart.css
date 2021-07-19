@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 0;
+  background-color: #E7EDFC;
+}
+
+h1 {
+  margin: 25px auto 0;
+  font-family: 'Arizonia', cursive;
+  font-size: 5em;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  margin-top: 25px;
+}
+
+.gallery-img {
+  height: 200px;
+  width: 80%;
+}
+
+.gallery-header {
+  text-align: left;
+  margin: 20px 0 0 30px;
+  font-family: 'Chalkduster', fantasy;
+  font-size: 2em;
+  color: #DB6106;
+}
